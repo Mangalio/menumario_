@@ -1,0 +1,99 @@
+
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}
+
+button {
+    font-size: 100px;
+    
+}
+
+ div {
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30px;
+    margin: 1.66%; 
+ }
+
+body {
+    background-image: url(/imgs/super-mario-fkq1k1pst35iab2c.jpg);
+}
+
+footer {
+    color: wheat;
+}
+
+#animatedbutton1 {
+    color: orange;
+    transition: transform 0.2s;
+    background-color: transparent; /* Зробіть фон прозорим */
+    border: none; /* Видаліть межі, якщо вони не потрібні */
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #animatedbutton1:hover {
+    transform: scale(1.1);
+    background-color: transparent; /* Зробіть фон прозорим */
+    border: none; /* Видаліть межі, якщо вони не потрібні */
+  }
+
+  #animatedbutton2 {
+    color: orange;
+    transition: transform 0.2s;background-color: transparent; /* Зробіть фон прозорим */
+    border: none; /* Видаліть межі, якщо вони не потрібні */
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #animatedbutton2:hover {
+    transform: scale(1.1);
+    background-color: transparent; /* Зробіть фон прозорим */
+    border: none; /* Видаліть межі, якщо вони не потрібні */
+  }
+
+  #animatedbutton3 {
+    color: orange;
+    transition: transform 0.2s;
+    background-color: transparent; /* Зробіть фон прозорим */
+    border: none; /* Видаліть межі, якщо вони не потрібні */
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #animatedbutton3:hover {
+    transform: scale(1.1);
+    background-color: transparent; /* Зробіть фон прозорим */
+    border: none; /* Видаліть межі, якщо вони не потрібні */
+  }
+  
+  .avt {
+    font-size: 15px;
+  }
+
+  #animatedbutton4 {
+    transition: transform 0.2s;
+    background-color: transparent; /* Зробіть фон прозорим */
+    border: none; /* Видаліть межі, якщо вони не потрібні */
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+  #animatedbutton4:hover {
+    transform: scale(1.1);
+    background-color: transparent; /* Зробіть фон прозорим */
+    border: none; /* Видаліть межі, якщо вони не потрібні */
+  }
+
